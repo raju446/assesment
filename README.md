@@ -24,6 +24,7 @@ This Lightning Web Component (LWC) is designed to manage and display a list of p
   - `getProductsByCategory`: Retrieves products filtered by category.
   - `updateProduct`: Updates product information.
   - `deleteProduct`: Deletes a selected product.
+  - `createProduct`: Create a product.
 
 ### Apex Controller
 - **ProductController**: An Apex controller providing methods to fetch product categories, retrieve products by category, update product details, and delete products.
